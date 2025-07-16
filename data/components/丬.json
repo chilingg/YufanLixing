@@ -1,0 +1,56 @@
+{
+  "attrs": {
+    "char_box": "left",
+    "reduce_alloc": {
+      "h": [],
+      "v": [
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "paths": [
+    {
+      "hide": false,
+      "points": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "hide": false,
+      "points": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          3
+        ]
+      ]
+    },
+    {
+      "hide": false,
+      "points": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          4
+        ]
+      ]
+    }
+  ]
+}

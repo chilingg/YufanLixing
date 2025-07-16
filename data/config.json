@@ -1,0 +1,102 @@
+{
+  "components": {},
+  "config": {
+    "comp_white": {
+      "h": {
+        "allocated": 0.0,
+        "fixed": 0.05,
+        "value": 0.027
+      },
+      "v": {
+        "allocated": 0.0,
+        "fixed": 0.05,
+        "value": 0.027
+      }
+    },
+    "interval": {},
+    "min_val": {
+      "h": [
+        0.077
+      ],
+      "v": [
+        0.077
+      ]
+    },
+    "place_replace": {},
+    "process_control": [
+      {
+        "EdgeShrink": {
+          "h": [
+            true,
+            true
+          ],
+          "v": [
+            true,
+            false
+          ]
+        }
+      },
+      {
+        "Center": {
+          "h": {
+            "execution": 0.0,
+            "operation": 0.5
+          },
+          "v": {
+            "execution": 1.0,
+            "operation": 0.5
+          }
+        }
+      },
+      {
+        "CompCenter": {
+          "h": {
+            "execution": 1.0,
+            "operation": 0.5
+          },
+          "v": {
+            "execution": 1.0,
+            "operation": 0.5
+          }
+        }
+      }
+    ],
+    "reduce_replace": {},
+    "reduce_trigger": {
+      "h": 0.0,
+      "v": 0.0
+    },
+    "setting": [
+      "dot_face",
+      "same_horizontal"
+    ],
+    "size": {
+      "h": 1.0,
+      "v": 1.0
+    },
+    "strategy": {
+      "axis": {
+        "h": {},
+        "v": {}
+      },
+      "surround": {}
+    },
+    "strok_width": 0.077,
+    "supplement": {},
+    "type_replace": {},
+    "white": {
+      "h": {
+        "allocated": 0.0,
+        "fixed": 0.09,
+        "value": 0.025
+      },
+      "v": {
+        "allocated": 0.0,
+        "fixed": 0.083,
+        "value": 0.032
+      }
+    }
+  },
+  "name": "lixing",
+  "version": "0.1"
+}

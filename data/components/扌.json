@@ -1,0 +1,46 @@
+{
+  "attrs": {
+    "char_box": "left"
+  },
+  "paths": [
+    {
+      "hide": false,
+      "points": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
+    {
+      "hide": false,
+      "points": [
+        [
+          0,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "hide": false,
+      "points": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          4
+        ]
+      ]
+    }
+  ]
+}

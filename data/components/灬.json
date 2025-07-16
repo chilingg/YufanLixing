@@ -1,0 +1,67 @@
+{
+  "attrs": {
+    "char_box": "bottom",
+    "reduce_alloc": {
+      "h": [],
+      "v": [
+        [
+          0
+        ]
+      ]
+    }
+  },
+  "paths": [
+    {
+      "hide": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "hide": false,
+      "points": [
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
+    {
+      "hide": false,
+      "points": [
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ]
+      ]
+    },
+    {
+      "hide": false,
+      "points": [
+        [
+          6,
+          0
+        ],
+        [
+          6,
+          1
+        ]
+      ]
+    }
+  ]
+}

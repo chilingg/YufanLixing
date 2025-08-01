@@ -6,6 +6,32 @@
       false,
       false
     ],
+    "interval_alloc": {
+      "Vertical": {
+        "Start": {
+          "allocs": {
+            "h": [],
+            "v": [
+              2
+            ]
+          },
+          "interval": 0,
+          "rules": [
+            [
+              "*",
+              "1",
+              "*",
+              "1",
+              "*",
+              "1",
+              "*",
+              "1",
+              "*"
+            ]
+          ]
+        }
+      }
+    },
     "reduce_alloc": {
       "h": [
         [

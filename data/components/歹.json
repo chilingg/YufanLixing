@@ -1,5 +1,11 @@
 {
   "attrs": {
+    "edge_shrink": [
+      false,
+      true,
+      false,
+      false
+    ],
     "interval_alloc": {
       "Horizontal": {
         "End": {

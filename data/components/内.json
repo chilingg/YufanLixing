@@ -1,5 +1,18 @@
 {
   "attrs": {
+    "in_place": [
+      [
+        "* * * o",
+        {
+          "h": [],
+          "v": [
+            1,
+            2,
+            0
+          ]
+        }
+      ]
+    ],
     "interval_alloc": {
       "Vertical": {
         "Start": {

@@ -1,5 +1,17 @@
 {
-  "attrs": {},
+  "attrs": {
+    "reduce_alloc": {
+      "h": [],
+      "v": [
+        [
+          0,
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
   "paths": [
     {
       "hide": false,

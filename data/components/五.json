@@ -6,6 +6,18 @@
       false,
       false
     ],
+    "in_place": [
+      [
+        "* * o *;* * * o",
+        {
+          "h": [],
+          "v": [
+            2,
+            2
+          ]
+        }
+      ]
+    ],
     "reduce_alloc": {
       "h": [
         [

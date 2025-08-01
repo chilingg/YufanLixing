@@ -1,5 +1,12 @@
 {
-  "attrs": {},
+  "attrs": {
+    "edge_shrink": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "paths": [
     {
       "hide": false,

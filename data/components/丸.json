@@ -1,5 +1,11 @@
 {
   "attrs": {
+    "edge_shrink": [
+      false,
+      false,
+      true,
+      false
+    ],
     "reduce_alloc": {
       "h": [],
       "v": []
